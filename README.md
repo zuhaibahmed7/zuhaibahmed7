@@ -17,7 +17,8 @@
 ---
 
 ## 🚀 Featured Projects
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=zuhaibahmed4&repo=YourRepoName&theme=radical)](https://github.com/zuhaibahmed7/2nd-Semester-OOP-Project-)  
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=zuhaibahmed4&repo=YourRepoName&theme=radical)](https://github.com/zuhaibahmed4/2nd-Semester-OOP-Project-
+)  
 
 ---
 
