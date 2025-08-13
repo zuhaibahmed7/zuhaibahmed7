@@ -1,5 +1,5 @@
 <!-- Banner -->
-![Banner](https://i.ibb.co/4W9t6XP/github-banner-zuhaib.png) <!-- Replace this link with your custom banner when ready -->
+![Banner](https://www.freepik.com/free-vector/vector-abstract-background-label-color_1306932.htm#fromView=keyword&page=4&position=3&uuid=438396a9-40c3-4b5e-81e5-275bbe01a754&query=Banners+Png) <!-- Replace this link with your custom banner when ready -->
 
 # Hi there, I'm **Zuhaib Ahmed** 👋  
 💻 **Java | Python | DSA**  
