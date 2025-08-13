@@ -1,5 +1,4 @@
-<!-- Banner -->
-![Banner](https://www.freepik.com/free-vector/vector-abstract-background-label-color_1306932.htm#fromView=keyword&page=4&position=3&uuid=438396a9-40c3-4b5e-81e5-275bbe01a754&query=Banners+Png) <!-- Replace this link with your custom banner when ready -->
+
 
 # Hi there, I'm **Zuhaib Ahmed** 👋  
 💻 **Java | Python | DSA**  
@@ -39,7 +38,7 @@
 ## 📫 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
 [![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zuhaibahmed4)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](zuhaibahmed.bssef24@iba-suk.edu.pk)
 
 ---
 ⭐️ From [zuhaibahmed4](https://github.com/zuhaibahmed4)
