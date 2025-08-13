@@ -1,6 +1,5 @@
 <!-- Banner -->
-https://ibb.co/tMW6DZYX
-# Hi there, I'm Zohaib Ahmed 👋  
+# Hi there, I'm Zuhaib Ahmed 👋  
 💻 **Java | Python | DSA | Problem Solving**  
 🚀 Always learning, building, and improving.  
 
