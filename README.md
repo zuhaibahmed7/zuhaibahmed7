@@ -1,6 +1,6 @@
 
 # Hi there, I'm **Zuhaib Ahmed** 👋  
-💻 **Java | Python | DSA**  
+💻 **Java | DSA | Python**  
 🚀 Always learning, solving problems, and building cool things.
 
 ---
