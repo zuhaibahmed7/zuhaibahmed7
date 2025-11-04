@@ -1,12 +1,10 @@
 
 # Hi there, I'm **Zuhaib Ahmed** 👋  
-💻 **Java | DSA | Python**  
-🚀 Always learning, solving problems, and building cool things.
 I'm a Software Engineer passionate about building clean, scalable, and efficient solutions.
 
 I work with a wide range of technologies including Python, Java, C++, SQL, HTML, CSS, and MS Office tools for documentation and data workflows.
-
 I love teaching, explaining concepts, and helping others solve problems — whether it's debugging code, optimizing logic, or understanding fundamentals.
+🚀 Always learning, solving problems, and building cool things.
 
 ---
 
