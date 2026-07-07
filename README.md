@@ -1,7 +1,7 @@
 # Hi 👋, I'm Zuhaib Ahmed
 **A passionate Software Engineer from Pakistan**
 
-- 🔭 **I’m currently working on:** Data Science and AI projects
+- 🔭 **I’m currently working on:** AI 
 - 🌱 **I’m currently learning:** AI/ML/Data Science
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me
 
