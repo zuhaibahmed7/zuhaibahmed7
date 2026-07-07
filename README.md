@@ -1,4 +1,4 @@
-# 💫 Hi 👋, I'm Zuhaib Ahmed
+# Hi 👋, I'm Zuhaib Ahmed
 **A passionate Software Engineer from Pakistan**
 
 - 🔭 **I’m currently working on:** Data Science and AI projects
