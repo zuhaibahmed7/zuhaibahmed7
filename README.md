@@ -1,9 +1,9 @@
 # Hi 👋, I'm Zuhaib Ahmed
-**A passionate Software Engineer from Pakistan**
+**A passionate AI Engineer from Pakistan**
 
-- 🔭 **I’m currently working on:** AI 
-- 🌱 **I’m currently learning:** AI/ML/Data Science
-- ⚡ **Fun fact:** I Love Tech and Tech Love Me
+- **I’m currently working on:** AI 
+- **I’m currently learning:** AI
+- **Fun fact:** I Love Tech and Tech Love Me
 
 ## 🏆 GitHub Trophies
 ![](https://github-trophies.vercel.app/?username=zuhaibahmed7&theme=radical&no-frame=false&no-bg=true&margin-w=4) 
