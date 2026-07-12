@@ -1,5 +1,5 @@
 # Hi 👋, I'm Zuhaib Ahmed
-**A passionate AI Engineer from Pakistan**
+**A passionate AI Engineer**
 
 - **I’m currently working on:** AI 
 - **I’m currently learning:** AI
