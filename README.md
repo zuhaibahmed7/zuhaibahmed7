@@ -269,3 +269,134 @@ Always building something new 🚀
 </p>
 
 ---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/zuhaibahmed7/zuhaibahmed7/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
+
+</p>
+
+> **⚠️ Note:** The snake animation requires a GitHub Actions workflow. I can generate the workflow file (`snake.yml`) for you if you need it.
+
+---
+
+# 📊 GitHub Profile Summary
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zuhaibahmed7&theme=github_dark"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zuhaibahmed7&theme=github_dark"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=zuhaibahmed7&theme=github_dark"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=zuhaibahmed7&theme=github_dark"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=zuhaibahmed7&theme=github_dark&utcOffset=5"/>
+
+</p>
+
+---
+
+# 💻 Coding Profiles
+
+<p align="center">
+
+<a href="YOUR_LEETCODE_PROFILE">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+<a href="YOUR_CODEFORCES_PROFILE">
+<img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=codeforces&logoColor=white"/>
+</a>
+
+<a href="YOUR_HACKERRANK_PROFILE">
+<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+</a>
+
+<a href="YOUR_CODECHEF_PROFILE">
+<img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# 📚 Currently Exploring
+
+- 🤖 Agentic AI Systems
+- 🧠 Large Language Models (LLMs)
+- ⚡ AI Agents using OpenAI SDK
+- 🔍 Retrieval-Augmented Generation (RAG)
+- 📄 Vector Databases
+- 🐳 Docker & Containerized AI Applications
+- ☁️ Google Cloud AI Services
+- ⚙️ FastAPI + React Full Stack Development
+
+---
+
+# 🎯 2026 Goals
+
+- 🚀 Contribute to Open Source AI Projects
+- 🧠 Master LLM Engineering
+- 🌍 Build Production-Ready AI Applications
+- 📱 Launch SaaS AI Products
+- 📚 Publish Technical Blogs
+- ⭐ Reach 500+ GitHub Contributions
+- 🤝 Collaborate with Developers Worldwide
+
+---
+
+# ✍️ Random Dev Quote
+
+<p align="center">
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+</p>
+
+---
+
+# 👀 Profile Visitors
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=zuhaibahmed7&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+
+</p>
+
+---
+
+# ☕ Support My Work
+
+If you like my projects and repositories, consider giving them a ⭐.
+
+Your support motivates me to build more AI-powered solutions and contribute to the developer community.
+
+---
+
+# 💡 Favorite Quote
+
+> **"The best way to predict the future is to build it."** 🚀
+
+---
+
+<div align="center">
+
+## ⭐ Thanks for visiting my profile! ⭐
+
+### Let's build the future with AI together.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:00C9FF&height=120&section=footer"/>
+
+</div>
