@@ -120,3 +120,152 @@ AI Engineer • Software Engineering Student • Machine Learning Enthusiast
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
+
+# 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 🤖 ResearchPilot
+**Multi-Agent Autonomous Research System**
+
+- 🧠 OpenAI SDK
+- ⚡ FastAPI
+- 🐳 Docker
+- 🤖 GitHub Models
+- 🤗 Hugging Face
+- 🌐 Multi-Agent Architecture
+
+</td>
+
+<td width="50%">
+
+### 🌱 AgroVision
+**AI Plant Disease Prediction**
+
+- 🧠 CNN Deep Learning
+- 📊 54,000+ Images
+- 🎯 88% Validation Accuracy
+- 🌿 Disease Detection
+- 📈 TensorFlow
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+### 🍽️ Canteen Token & Queue Management
+
+- 🏛 Three-Tier Architecture
+- 🔐 Role-Based Authentication
+- 📱 Responsive UI
+- 💾 MySQL Database
+- ☕ Java Backend
+
+</td>
+
+<td>
+
+### 💪 FitWise
+
+- 🤖 AI Workout Planner
+- 🍎 Nutrition Suggestions
+- 📈 Personalized Fitness
+- 🧠 Machine Learning
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+### 🎬 ScriptFlow AI
+
+- 🎥 AI Video Script Generator
+- ✍ Content Creation
+- 📱 YouTube / Instagram / TikTok
+- 🤖 OpenAI API
+
+</td>
+
+<td>
+
+### 🎯 More Projects Coming...
+
+Always building something new 🚀
+
+</td>
+</tr>
+
+</table>
+
+---
+
+# 🎯 Current Focus
+
+```text
+🤖 Agentic AI
+🧠 Large Language Models (LLMs)
+⚡ FastAPI & React
+☁️ Google Cloud
+🐳 Docker
+📊 Machine Learning
+🔬 Artificial Intelligence Research
+🌍 Open Source Contributions
+```
+
+---
+
+# 📜 Certifications
+
+🏅 **Google Cloud Gen AI Academy (APAC Edition)**
+
+🏅 **Kaggle – Intro to Machine Learning**
+
+🏅 **Anthropic – Claude 101**
+
+🏅 **Google via Coursera – Maximize Productivity With AI Tools**
+
+🏅 **DataCamp – Introduction to SQL**
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+![](https://github-trophies.vercel.app/?username=zuhaibahmed7&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+</p>
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=zuhaibahmed7&theme=tokyonight&show_icons=true&include_all_commits=true&count_private=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zuhaibahmed7&theme=tokyonight&layout=compact"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://nirzak-streak-stats.vercel.app/?user=zuhaibahmed7&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 📈 GitHub Activity Graph
+
+<p align="center">
+
+[![Zuhaib's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=zuhaibahmed7&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</p>
+
+---
