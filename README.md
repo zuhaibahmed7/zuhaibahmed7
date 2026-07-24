@@ -1,134 +1,30 @@
-<div align="center">
+# Hi 👋, I'm Zuhaib Ahmed
+**A passionate AI Engineer**
 
-# `zuhaib@github ~ $ whoami`
+- **I’m currently working on:** AI 
+- **I’m currently learning:** AI
+- **Fun fact:** I Love Tech and Tech Love Me
 
-</div>
+## 🏆 GitHub Trophies
+![](https://github-trophies.vercel.app/?username=zuhaibahmed7&theme=radical&no-frame=false&no-bg=true&margin-w=4) 
 
-<table>
-<tr>
 
-<td width="42%">
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/zuhaibahmed347) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/yaa.itszuhaibahmed) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/zuhaib-ahmed-69951a39a/) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/zuhaibahmed7) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ZohaibAhmedMah2) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:zuhaibahmedlodromahar@gmail.com) 
 
-```text
-⣿⣿⣿⣷⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⣿⣿⣿⣿⣿⣦⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⣿⣿⣿⣿⣿⣿⣷⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-        YOUR ASCII PORTRAIT
-        GENERATED FROM
-        YOUR PROFILE PHOTO
-```
 
-</td>
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=zuhaibahmed7&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=zuhaibahmed7&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=zuhaibahmed7&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-<td width="58%">
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-```console
-zuhaib@github
-
-Now
-        AI Engineer
-
-Edu
-        Sukkur IBA University
-
-Current
-        Building Agentic AI Systems
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-Languages
-        Python
-        Java
-        JavaScript
-        C++
-        SQL
-
-AI / ML
-        OpenAI SDK
-        TensorFlow
-        GitHub Models
-        Scikit-Learn
-        Pandas
-        NumPy
-        CNN
-        Prompt Engineering
-
-Backend
-        FastAPI
-        Django
-        REST APIs
-
-Frontend
-        React
-        HTML
-        CSS
-        Tailwind CSS
-
-Cloud
-        Docker
-        Hugging Face
-        Google Cloud
-        Vercel
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-Highlights
-
-● ResearchPilot
-
-● AgroVision
-
-● Agentic AI
-
-● Full Stack AI
-
-● Google Cloud GenAI
-```
-
-</td>
-
-</tr>
-</table>
 
 ---
+[![](https://visitcount.itsvg.in/api?id=zuhaibahmed7&icon=0&color=0)](https://visitcount.itsvg.in)
 
-# 🚀 Featured Projects
-
-- 🤖 ResearchPilot
-- 🌱 AgroVision
-- 🍽️ Canteen Queue System
-- 💪 FitWise
-- 🎬 ScriptFlow AI
-
----
-
-# 💻 Tech Stack
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,cpp,javascript,react,django,fastapi,html,css,tailwind,mysql,docker,git,github,figma,vscode&perline=8"/>
-</p>
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=zuhaibahmed7&theme=tokyonight&show_icons=true&hide_border=true"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zuhaibahmed7&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-<img src="https://nirzak-streak-stats.vercel.app/?user=zuhaibahmed7&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-# 🌐 Connect
-
-<p align="center">
-
-<a href="https://github.com/zuhaibahmed7">GitHub</a> •
-<a href="https://www.linkedin.com/in/zuhaib-ahmed-69951a39a/">LinkedIn</a> •
-<a href="https://huggingface.co/spaces/zuhaibahmed7/researchpilot">Hugging Face</a>
-
-</p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
