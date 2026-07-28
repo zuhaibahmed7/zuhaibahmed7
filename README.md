@@ -273,13 +273,8 @@ Always building something new 🚀
 # 🐍 Contribution Snake
 
 <p align="center">
-
-<img src="https://raw.githubusercontent.com/zuhaibahmed7/zuhaibahmed7/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
-
+  <img src="https://raw.githubusercontent.com/zuhaibahmed7/zuhaibahmed7/output/github-contribution-grid-snake-dark.svg">
 </p>
-
-> **⚠️ Note:** The snake animation requires a GitHub Actions workflow. I can generate the workflow file (`snake.yml`) for you if you need it.
-
 ---
 
 # 📊 GitHub Profile Summary
