@@ -242,9 +242,21 @@ Always building something new 🚀
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zuhaibahmed7)
+<p align="center">
+
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=zuhaibahmed7&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=zuhaibahmed7&layout=compact&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=zuhaibahmed7&theme=tokyonight"/>
+
+</p>
 
 ---
 
