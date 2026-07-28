@@ -1,7 +1,7 @@
 # Hi 👋, I'm Zuhaib Ahmed
 
 <h3 align="center">
-AI Engineer • Software Engineering Student • Machine Learning Enthusiast
+AI Engineer
 </h3>
 
 <p align="center">
