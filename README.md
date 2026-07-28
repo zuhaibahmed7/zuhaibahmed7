@@ -246,18 +246,19 @@ Always building something new 🚀
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=zuhaibahmed7&theme=tokyonight&show_icons=true&include_all_commits=true&count_private=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=zuhaibahmed7&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zuhaibahmed7&theme=tokyonight&layout=compact"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zuhaibahmed7&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=zuhaibahmed7&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=zuhaibahmed7&theme=tokyonight&hide_border=true"/>
 
 </p>
 
+---
 ---
 
 # 📈 GitHub Activity Graph
