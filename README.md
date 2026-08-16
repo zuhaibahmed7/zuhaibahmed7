@@ -246,17 +246,17 @@ Always building something new 🚀
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=zuhaibahmed7&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=zuhaibahmed7&layout=compact&theme=tokyonight"/>
+<img src="https://anya-github-stats.vercel.app/api/stats?username=zuhaibahmed7&theme=dracula&border_radius=14" alt="Zuhaib Ahmed's GitHub Stats"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=zuhaibahmed7&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=zuhaibahmed7&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 
 </p>
+
+---
 
 ---
 
