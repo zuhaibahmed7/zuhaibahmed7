@@ -5,8 +5,9 @@ AI Engineer • Software Engineering Student • Machine Learning Enthusiast
 </h3>
 
 <p align="center">
-  
-<img src="./assets/profile.png" width="220" alt="Zuhaib Ahmed"/> 
+
+<img src="https://raw.githubusercontent.com/zuhaibahmed7/zuhaibahmed7/main/assets/ascii-animation.svg" width="420" align="right" /> 
+<!-- <img src="./assets/profile.png" width="220" alt="Zuhaib Ahmed"/>  -->
 
 </p>
 
