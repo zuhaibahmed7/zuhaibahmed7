@@ -6,8 +6,8 @@ AI Engineer • Software Engineering Student • Machine Learning Enthusiast
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/zuhaibahmed7/zuhaibahmed7/main/assets/neofetch-card.svg" alt="Zuhaib Ahmed neofetch"/> 
-<!-- <img src="./assets/profile.png" width="220" alt="Zuhaib Ahmed"/>  -->
+<!-- <img src="https://raw.githubusercontent.com/zuhaibahmed7/zuhaibahmed7/main/assets/neofetch-card.svg" alt="Zuhaib Ahmed neofetch"/>  -->
+<img src="./assets/profile.png" width="220" alt="Zuhaib Ahmed"/>  
 
 </p>
 
