@@ -21,7 +21,7 @@ AI Engineer • Software Engineering Student
 
 # 💫 About Me
 
-- 🔭 **I'm currently working on:** Agentic AI Systems, Machine Learning & Full Stack AI Applications
+- 🔭 **I'm currently working on:** Agentic AI Systems, RAG, Machine Learning & Full Stack AI Applications
 
 - 🌱 **I'm currently learning:** Large Language Models (LLMs), Multi-Agent AI, Advanced Machine Learning & Data Science
 
